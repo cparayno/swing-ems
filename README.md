@@ -11,3 +11,5 @@ As an Admin
 4. Manage Leaves (Add, View, Update Leaves)
 
 # Screenshots 
+![image](https://github.com/user-attachments/assets/b8befb80-cb3c-47e3-ae2e-00a795c41982)
+
